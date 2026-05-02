@@ -6,8 +6,8 @@ Lightweight Alfred workflow for **Chinese ↔ English** lookup via DeepSeek; sup
 
 ## Install
 
-1. Go to **Releases**, download `**DS-Translator.alfredworkflow`**, double-click to import. (No release yet? Clone the repo, run `bash build.sh` in the project root, then double-click the file it creates.)
-2. Open **DS Translator** in Alfred, click `**[x]`**, and set your [DeepSeek](https://platform.deepseek.com) **API Key**.
+1. Open **[Releases (latest)](https://github.com/BitSparse/alfred_llm_translator/releases/latest)**, download **DS-Translator.alfredworkflow** from Assets, double-click to import. (Or clone and run `bash build.sh` locally.)
+2. Open **DS Translator** in Alfred, click **[x]**, and set your [DeepSeek](https://platform.deepseek.com) **API Key**.
 
 ## Usage
 

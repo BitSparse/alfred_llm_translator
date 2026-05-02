@@ -6,8 +6,8 @@
 
 ## 安装
 
-1. 打开 **Releases**，下载 `**DS-Translator.alfredworkflow`**，双击导入 Alfred。（没有 Release 时：克隆本仓库，在项目根目录执行 `bash build.sh`，再双击生成的文件。）
-2. 在 Alfred 里打开 **DS Translator**，点右上角 `**[x]`**，填写 [DeepSeek](https://platform.deepseek.com) 的 **API Key**。
+1. 打开 **[Releases（最新版）](https://github.com/BitSparse/alfred_llm_translator/releases/latest)**，在 Assets 里下载 **DS-Translator.alfredworkflow**，双击导入 Alfred。（也可克隆本仓库后执行 `bash build.sh` 本地打包。）
+2. 在 Alfred 里打开 **DS Translator**，点右上角 **[x]**，填写 [DeepSeek](https://platform.deepseek.com) 的 **API Key**。
 
 ## 用法
 

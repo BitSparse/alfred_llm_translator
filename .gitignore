@@ -1,0 +1,4 @@
+# Build artifact (use GitHub Releases to distribute; avoid committing local builds by mistake)
+*.alfredworkflow
+
+.DS_Store
